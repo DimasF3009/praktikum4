@@ -58,8 +58,21 @@ jika program true
 # Tugas Praktikum 2
 ## Buat program sederhana dengan input tiga buah bilangan, dari ketiga bilangan tersebut tampilkan bilangan terbesarnya. Gunakan statement if.
 ### Gambar Program
+![pic10](https://user-images.githubusercontent.com/115356128/200049138-7b589a23-19a8-4fb7-b6df-d66d430c73f6.png)
 
+### Penjelasan Program
+1. a=int(input("Masukan angka = ")) Untuk menentukan jumlah input yang di inginkan sesuai tipe data yaitu interger tipe data bilangan bulat.
+2. b=int(input("Masukan angka = ")) Untuk menentukan jumlah input yang di inginkan sesuai tipe data yaitu interger tipe data bilangan bulat.
+3. c=int(input("Masukan angka = ")) Untuk menentukan jumlah input yang di inginkan sesuai tipe data yaitu interger tipe data bilangan bulat.
+4. if a>b and a>c or b>c:
+    print(f"Dari bilangan '{a} {b} {c}' bilangan yang terbesar adalah", a)
+  Artinya jika a lebih besar dari b dan, a lebih besar dari c, atau b lebih besar dari c maka print a
+5. elif b>a and b>c or a>c:
+   print(f"Dari bilangan '{a} {b} {c}' bilangan yang terbesar adalah", b)
+  Artinya jika b lebih besar dari a dan, b lebih besar dari c, atau a lebih besar dari c maka print b
+6. Jika bilangan a atau b lebih kecil dari c maka print c
 
+### Hasil Program / Output
 
 
 
