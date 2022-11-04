@@ -38,3 +38,24 @@ jika program true
 ### Hasil program / Output
 ![pic7](https://user-images.githubusercontent.com/115356128/199867234-a0844ac6-9482-4353-b117-36e638a97b78.png)
 
+# Latihan 2 (Perulangan)
+## 1. Tampilkan n bilangan acak yang lebih kecil dari 0.5.
+## 2. Nilai n diisi pada saat runtime
+## 3. Anda bisa menggunakan kombinasi while dan for untuk menyelesaikannya
+
+### Gambar program
+![pic8](https://user-images.githubusercontent.com/115356128/199867953-796794d8-9fc3-4d7d-8ddf-685d7e70fa92.png)
+
+#### Penjelasan  Program
+1. Import random dari library python 
+2. user=int(input("Masukan angka = ")) Untuk menentukan jumlah input yang di inginkan sesuai tipe data yaitu interger tipe data bilangan bulat
+3. for i in range ( user ) : Untuk Pengulangan dengan range user
+4. lalu cetak print("Data ke", i+1, "=",(random.uniform (0.1,0.5))) dan memanggil random dengan range 0.1 sampai 0.5
+
+#### Hasil program / Output
+![pic9](https://user-images.githubusercontent.com/115356128/199868656-726aafac-d0f4-4e15-bfeb-063659d2e54a.png)
+
+
+
+
+
