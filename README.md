@@ -21,3 +21,20 @@ jika program false
 jika program true
 
 ![pic3](https://user-images.githubusercontent.com/115356128/199864860-48c7e5ea-cd8e-4e86-8642-08913b33ab16.png)
+
+# Latihan 2
+## Buat program untuk mengurutkan data berdasarkan input sejumlah data (minimal 3 variable input atau lebih), kemudian tampilkan hasilnya secara berurutan mulai dari data terkecil.
+### Gambar Program
+![pic4](https://user-images.githubusercontent.com/115356128/199866098-13cd8d7c-d41d-4c6b-bd77-be22e88ee774.png)
+
+### Hasil program / Output
+![pic5](https://user-images.githubusercontent.com/115356128/199866441-c5b28c6f-a23f-43b4-95c6-f7c7d8f04ffc.png)
+
+# Latihan 1 (Perulangan)
+## Buat program dengan perulangan bertingkat (nested) for
+### Gambar Program
+![pic6](https://user-images.githubusercontent.com/115356128/199867176-3651b62d-6eae-4860-a160-a77509f5a65f.png)
+
+### Hasil program / Output
+![pic7](https://user-images.githubusercontent.com/115356128/199867234-a0844ac6-9482-4353-b117-36e638a97b78.png)
+
