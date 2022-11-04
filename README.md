@@ -72,6 +72,9 @@ jika program true
   Artinya jika b lebih besar dari a dan, b lebih besar dari c, atau a lebih besar dari c maka print b
 6. Jika bilangan a atau b lebih kecil dari c maka print c
 
+### Flowchart
+![pic11](https://user-images.githubusercontent.com/115356128/200065861-68769a3b-fe56-49cc-8888-471cfea820ea.png)
+
 ### Hasil Program / Output
 ![pic12](https://user-images.githubusercontent.com/115356128/200062999-a3fd5da2-d019-4f0d-968a-a442a5f8d7b6.png)
 
@@ -79,5 +82,7 @@ jika program true
 
 ![pic14](https://user-images.githubusercontent.com/115356128/200063060-6e6689c4-2a02-48c2-b85e-d36f5d3258cb.png)
 
-
+# Tugas Praktikum 3
+## Program Sederhana Untuk Menghitung Jumlah Laba Hasil Investasi Seorang Pengusaha Selama 8 Bulan
+### 
 
