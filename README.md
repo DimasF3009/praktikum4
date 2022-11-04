@@ -55,6 +55,11 @@ jika program true
 #### Hasil program / Output
 ![pic9](https://user-images.githubusercontent.com/115356128/199868656-726aafac-d0f4-4e15-bfeb-063659d2e54a.png)
 
+# Tugas Praktikum 2
+## Buat program sederhana dengan input tiga buah bilangan, dari ketiga bilangan tersebut tampilkan bilangan terbesarnya. Gunakan statement if.
+### Gambar Program
+
+
 
 
 
