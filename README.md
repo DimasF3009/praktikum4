@@ -33,10 +33,10 @@ jika program true
 # Latihan 1 (Perulangan)
 ## Buat program dengan perulangan bertingkat (nested) for
 ### Gambar Program
-![pic6](https://user-images.githubusercontent.com/115356128/199867176-3651b62d-6eae-4860-a160-a77509f5a65f.png)
+![pic6](https://user-images.githubusercontent.com/115356128/200099905-ec2c54a3-c4cf-4997-8390-480325164f72.png)
 
 ### Hasil program / Output
-![pic7](https://user-images.githubusercontent.com/115356128/199867234-a0844ac6-9482-4353-b117-36e638a97b78.png)
+![pic7](https://user-images.githubusercontent.com/115356128/200099918-50a64294-05f4-4c4a-a1cc-f961a9e45adf.png)
 
 # Latihan 2 (Perulangan)
 ## 1. Tampilkan n bilangan acak yang lebih kecil dari 0.5.
