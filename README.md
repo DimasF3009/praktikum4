@@ -95,7 +95,12 @@ jika program true
 5. For i in range (len (y)) Print (“laba bulan ke-“,i+1,”sebesar:” ,y[i]) untuk perulangan data dengan isi data yaitu Ydengan menampilkan urutan laba perbulan sesuai range yang di tentukan dengan hasil ke untukan yang di inpput dari data Y
 6. Z= (a+b+c+d+e+f+g+h) Print (“jumlah laba selama 8 bulan adalah:”) Z berisi data penjumlahan data angka yang ada didalam kode a,b,c,d,e,f,g,h yang akan di tampilakan atau dicetak di jumlah laba selama 8 bulan
 
+### Flowchart
+![pic16](https://user-images.githubusercontent.com/115356128/200099410-ec8cf8bd-adad-4069-8398-b1e256eb2ba8.png)
+
 ### Hasil Program / Output
+![pic17](https://user-images.githubusercontent.com/115356128/200099661-c334b308-ec7a-460c-aba8-d9319a5bf321.png)
+
 
 
 
