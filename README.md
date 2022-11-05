@@ -101,6 +101,27 @@ jika program true
 ### Hasil Program / Output
 ![pic17](https://user-images.githubusercontent.com/115356128/200099661-c334b308-ec7a-460c-aba8-d9319a5bf321.png)
 
+# Latihan 1.py
+## Program Untuk Menampilkan N Bilangan Acak Yang Lebih Kecil Dari 0.5
+### Penjelasan Program
+### Gambar Program
+![pic8](https://user-images.githubusercontent.com/115356128/200100683-e274757c-f48f-409f-9103-81ea665d1e95.png)
+
+1. Import random dari library python 
+2. user=int(input("Masukan angka = ")) Untuk menentukan jumlah input yang di inginkan sesuai tipe data yaitu interger tipe data bilangan bulat
+3. for i in range ( user ) : Untuk Pengulangan dengan range user
+4. lalu cetak print("Data ke", i+1, "=",(random.uniform (0.1,0.5))) dan memanggil random dengan range 0.1 sampai 0.5
+
+### Flowchart
+![pic18](https://user-images.githubusercontent.com/115356128/200100900-d99955b5-530c-4528-8498-6465f1f96104.png)
+
+### Hasil Program / Output
+![pic9](https://user-images.githubusercontent.com/115356128/200101035-2974ac84-1316-4fa5-a412-c2f2969ae155.png)
+
+
+
+
+
 
 
 
